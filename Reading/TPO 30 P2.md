@@ -1,5 +1,5 @@
 # TPO 30 Passage
-**Score: 12/14**
+#### **Score: 8/13**
 
 
 ## Role of Play in Development
@@ -19,7 +19,7 @@
 
 >针对不同生物体在不同阶段的相似的并且详尽的研究仍然是必要的。许多研究者认为这种生物从一个物种进化到另一个物种的模式都是可行的。在环境稳定的过程中，缓慢而逐渐的变化是生物进化的规范。当环境不稳定的时候新生物的进化完成会变得快速。但是在我们可以确信这个观点之前，我们仍然需要更多向Sheldon这样的研究。
 
-
+---
 
 ### 1. Translation Correction
 - Fly indicates an exact insect 苍蝇
@@ -47,37 +47,44 @@
 - A **permits** sth.
 
 ### 5. Words
-- enlivened
-- punctuate
-- static
-- burst
-- paleontologist
-- contention
-- sequence
-- discrete
-- jerky
-- uneven
-- conceive
+Words | type | Notes
+------|
+enlivened  | adj. | made lively or spirited
+alteration | n.   | = change               
+punctuate  | v.   | insert punctuation marks into                   
+static     | adj. |   = still              
+burst | v.|move suddenly
+paleontologist| n.|
+contention| n. | =augument
+sequence| n. | a following of one thing after another in time
+discrete | adj.| =separate/divided
+jerky| adj.| 	marked by abrupt transitions| =unsteady
+uneven| adj.| variable and recurring at irregular intervals
+conceive| v. | have the idea for
+norm| n.| a standard or model or pattern regarded as typical| =criterion/measure
+
 - precede (A preceded B means A existed early than B)
-- fly (This indicate the insect CangYing)
-0 norm
+- fly (This indicate the insect CangYing)|
 
 ### 6. Logical structure
 
+N/A
+
+---
 
 ## 7. Original Passage
-A heated debate has enlivened recent studies of evolution. Darwin' s original thesis, and the viewpoint supported by evolutionary gradualists, is that species change continuously but slowly and in small increments. Such changes are all but invisible over the short time scale of modern observations, and, it is argued, they are usually obscured by innumerable gaps in the imperfect fossil record. Gradualism, with its stress on the slow pace of change, is a comforting position, repeated over and over again in generations of textbooks. By the early twentieth century, the question about the rate of evolution had been answered in favor of gradualism to most biologists' satisfaction.
+>A heated debate has enlivened recent studies of evolution. Darwin' s original thesis, and the viewpoint supported by evolutionary gradualists, is that species change continuously but slowly and in small increments. Such changes are all but invisible over the short time scale of modern observations, and, it is argued, they are usually obscured by innumerable gaps in the imperfect fossil record. Gradualism, with its stress on the slow pace of change, is a comforting position, repeated over and over again in generations of textbooks. By the early twentieth century, the question about the rate of evolution had been answered in favor of gradualism to most biologists' satisfaction.
 
-Sometimes a closed question must be reopened as new evidence or new arguments based on old evidence come to light. In 1972 paleontologist Stephen Jay Gould and Niles Eldredge challenged conventional wisdom with an opposing viewpoint, the punctuated equilibrium hypothesis, which posits that species give rise to new species in relatively sudden bursts, without a lengthy transition period. These episodes of rapid evolution are separated by relatively long static spans during which a species may hardly change at all.
+>Sometimes a closed question must be reopened as new evidence or new arguments based on old evidence come to light. In 1972 paleontologist Stephen Jay Gould and Niles Eldredge challenged conventional wisdom with an opposing viewpoint, the punctuated equilibrium hypothesis, which posits that species give rise to new species in relatively sudden bursts, without a lengthy transition period. These episodes of rapid evolution are separated by relatively long static spans during which a species may hardly change at all.
 
-The punctuated equilibrium hypothesis attempts to explain a curious feature of the fossil record --- one that has been familiar to paleontologist for more than a century but has usually been ignored. Many species appear to remain unchanged in the fossil record for millions of years --- a situation that seems to be at odds with Darwin' s model of continuous change. Intermediated fossil forms, predicted by gradualism, are typically lacking. In most localities a given species of clam or coral persists essentially unchanged throughout a thick formation of rock, only to be replaced suddenly by a new and different species.
+>The punctuated equilibrium hypothesis attempts to explain a curious feature of the fossil record --- one that has been familiar to paleontologist for more than a century but has usually been ignored. Many species appear to remain unchanged in the fossil record for millions of years --- a situation that seems to be at odds with Darwin' s model of continuous change. Intermediated fossil forms, predicted by gradualism, are typically lacking. In most localities a given species of clam or coral persists essentially unchanged throughout a thick formation of rock, only to be replaced suddenly by a new and different species.
 
-The evolution of North American horse, which was once presented as a classic textbook example of gradual evolution, is now providing equally compelling evidence for punctuated equilibrium. A convincing 50-million-year sequence of modern horse ancestors --- each slightly larger, with more complex teeth, a longer face, and a more prominent central toe ---seemed to provide strong support for Darwin' s contention that species evolve gradually. But close examination of those fossil deposits now reveals a somewhat different story. Horses evolved in discrete steps, each of which persisted almost unchanged for millions of years and was eventually replaced by a distinctive newer model. The four-toed Eohippus preceded the three-toed Miohippus, for example, but North American fossil evidence suggests a jerky, uneven transition between the two. If evolution had been a continuous, gradual process, one might expect that almost every fossil specimen would be slightly different from every year.
+>The evolution of North American horse, which was once presented as a classic textbook example of gradual evolution, is now providing equally compelling evidence for punctuated equilibrium. A convincing 50-million-year sequence of modern horse ancestors --- each slightly larger, with more complex teeth, a longer face, and a more prominent central toe ---seemed to provide strong support for Darwin' s contention that species evolve gradually. But close examination of those fossil deposits now reveals a somewhat different story. Horses evolved in discrete steps, each of which persisted almost unchanged for millions of years and was eventually replaced by a distinctive newer model. The four-toed Eohippus preceded the three-toed Miohippus, for example, but North American fossil evidence suggests a jerky, uneven transition between the two. If evolution had been a continuous, gradual process, one might expect that almost every fossil specimen would be slightly different from every year.
 
-If it seems difficult to conceive how major changes could occur rapidly, consider this: an alteration of a single gene in files is enough to turn a normal fly with a single pair of wings into one that has two pairs of wings.
+>If it seems difficult to conceive how major changes could occur rapidly, consider this: an alteration of a single gene in files is enough to turn a normal fly with a single pair of wings into one that has two pairs of wings.
 
-The question about the rate of evolution must now be turned around: does evolution ever proceed gradually, or does it always occur in short bursts? Detailed field studies of thick rock formations containing fossils provide the best potential tests of the competing theories.
+>The question about the rate of evolution must now be turned around: does evolution ever proceed gradually, or does it always occur in short bursts? Detailed field studies of thick rock formations containing fossils provide the best potential tests of the competing theories.
 
-Occasionally , a sequence of fossil-rich layers of rock permits a comprehensive look at one type of organism over a long period of time. For example, Peter Sheldon' s studies of trilobites, a now extinct marine animal with a segmented body, offer a detailed glimpse into three million years of evolution in one marine environment. In that study, each of eight different trilobite species was observed to undergo a gradual change in the number of segments --- typically an increase of one or two segments over the whole time interval. No significant discontinuous were observed, leading Sheldon to conclude that environmental conditions were quite stable during the period he examined.
+>Occasionally , a sequence of fossil-rich layers of rock permits a comprehensive look at one type of organism over a long period of time. For example, Peter Sheldon' s studies of trilobites, a now extinct marine animal with a segmented body, offer a detailed glimpse into three million years of evolution in one marine environment. In that study, each of eight different trilobite species was observed to undergo a gradual change in the number of segments --- typically an increase of one or two segments over the whole time interval. No significant discontinuous were observed, leading Sheldon to conclude that environmental conditions were quite stable during the period he examined.
 
-Similar exhaustive studies are required for many different kinds of organisms from many different periods. Most researchers expect to find that both modes of transition from one species to another are at work in evolution. Slow, continuous change may be the norm during periods of environmental stability, while rapid evolution of new species occurs during periods of environment stress. But a lot more studies like Sheldon' s are needed before we can say for sure.
+>Similar exhaustive studies are required for many different kinds of organisms from many different periods. Most researchers expect to find that both modes of transition from one species to another are at work in evolution. Slow, continuous change may be the norm during periods of environmental stability, while rapid evolution of new species occurs during periods of environment stress. But a lot more studies like Sheldon' s are needed before we can say for sure.
